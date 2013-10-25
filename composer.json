@@ -1,0 +1,13 @@
+{
+    "name": "jfroma/phptest",
+    "authors": [
+        {
+            "name": "Jose Romaniello",
+            "email": "jfromaniello@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "firebase/php-jwt": "@dev"
+    }
+}
