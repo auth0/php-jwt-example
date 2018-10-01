@@ -1,4 +1,4 @@
-#php-jwt-example
+# php-jwt-example
 
 This is an example of how to decode Auth0's generated tokens in PHP.
 
