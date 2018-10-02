@@ -6,6 +6,13 @@ It uses [firebase/php-jwt](https://github.com/firebase/php-jwt).
 
 You have to Base64 url decode your client secret in order to validate.
 
+## Usage Instructions
+
+1. Install the dependencies with [Composer](https://getcomposer.org): `$ composer install`
+2. Run: `$ php test.php`
+
+See <test.php> for code examples.
+
 ## Issue Reporting
 
 If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
